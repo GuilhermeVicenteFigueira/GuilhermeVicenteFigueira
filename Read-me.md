@@ -1,4 +1,6 @@
 - Eae tudo tranquilo? Seja bem vindo ao meu perfil😎
+- 3 termo de Analise Desenvolvimento de Sistemas💻
+- Ele / dele
 
 
 <div style="display: inline_block"><br>
